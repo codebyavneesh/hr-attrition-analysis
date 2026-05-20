@@ -54,7 +54,7 @@ The goal is to help organizations make **data-driven decisions** to improve empl
 hr-attrition-analysis/
 │
 ├── 📂 dataset/
-│   └── emp_attrition.csv          # Raw employee attrition dataset
+│   └── emp_attrition.csv              # Raw employee attrition dataset
 │
 ├── 📂 screenshots/
 │   ├── age_vs_attrition.png
@@ -64,13 +64,17 @@ hr-attrition-analysis/
 │   ├── monthlyIncome_vs_attrition.png
 │   └── top_5_jobrols_with_highest_attrition.png
 │
-├── 📓 hr_attrition_project.ipynb  # Main Jupyter Notebook
+├── 📓 hr_attrition_project.ipynb      # Main Jupyter Notebook
+├── 📊 hr_attrition_dashboard.png      # Power BI Dashboard
 └── 📄 README.md
 ```
 
 ---
 
 ## 📸 Screenshots
+
+### 📊 HR Attrition Dashboard (Power BI)
+![HR Attrition Dashboard](https://github.com/codebyavneesh/hr-attrition-analysis/blob/main/hr-attrition-analysis/hr_attrition_dashboard.png?raw=true)
 
 ### 👥 Age vs Attrition
 ![Age vs Attrition](https://github.com/codebyavneesh/hr-attrition-analysis/blob/main/hr-attrition-analysis/screenshots/age_vs_attrition.png?raw=true)
